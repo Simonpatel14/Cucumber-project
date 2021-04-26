@@ -1,0 +1,86 @@
+2021-03-28 18:03:333 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:874 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:237 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (2baeb4ae592df299ecd33eb0bf139638)] -> link text: Your Store]
+2021-03-28 20:03:375 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (2baeb4ae592df299ecd33eb0bf139638)] -> xpath: //span[text()='My Account']]
+2021-03-28 20:03:180 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (2baeb4ae592df299ecd33eb0bf139638)] -> link text: Login]
+2021-03-28 20:03:244 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (2baeb4ae592df299ecd33eb0bf139638)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 20:03:778 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:194 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (110c2b9f2ffa9393db27346eb188f2e1)] -> link text: Your Store]
+2021-03-28 20:03:366 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (110c2b9f2ffa9393db27346eb188f2e1)] -> xpath: //span[text()='My Account']]
+2021-03-28 20:03:113 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (110c2b9f2ffa9393db27346eb188f2e1)] -> link text: Login]
+2021-03-28 20:03:209 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (110c2b9f2ffa9393db27346eb188f2e1)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 20:03:854 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:120 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (03f6f844d8e04d5071232efda00a0d59)] -> link text: Your Store]
+2021-03-28 20:03:259 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (03f6f844d8e04d5071232efda00a0d59)] -> xpath: //span[text()='My Account']]
+2021-03-28 20:03:47 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (03f6f844d8e04d5071232efda00a0d59)] -> link text: Login]
+2021-03-28 20:03:115 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (03f6f844d8e04d5071232efda00a0d59)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 20:03:501 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:984 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (e460a0b818ff4fe0bf6e4c6ccace4c3d)] -> link text: Your Store]
+2021-03-28 20:03:140 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (e460a0b818ff4fe0bf6e4c6ccace4c3d)] -> xpath: //span[text()='My Account']]
+2021-03-28 20:03:935 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (e460a0b818ff4fe0bf6e4c6ccace4c3d)] -> link text: Login]
+2021-03-28 20:03:33 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (e460a0b818ff4fe0bf6e4c6ccace4c3d)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 20:03:272 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 20:03:925 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (5b65811537c797f358f202f4dcd1f9c8)] -> link text: Your Store]
+2021-03-28 20:03:62 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (5b65811537c797f358f202f4dcd1f9c8)] -> xpath: //span[text()='My Account']]
+2021-03-28 20:03:873 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (5b65811537c797f358f202f4dcd1f9c8)] -> link text: Login]
+2021-03-28 20:03:969 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (5b65811537c797f358f202f4dcd1f9c8)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 21:03:411 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 21:03:878 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (d867635e26a7f70b4a7b7f595df046f3)] -> link text: Your Store]
+2021-03-28 21:03:60 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (d867635e26a7f70b4a7b7f595df046f3)] -> xpath: //span[text()='My Account']]
+2021-03-28 21:03:825 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (d867635e26a7f70b4a7b7f595df046f3)] -> link text: Login]
+2021-03-28 21:03:908 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (d867635e26a7f70b4a7b7f595df046f3)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:544 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:338 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (0ad036a6c12aa0b9c6c96cb7bb7e30aa)] -> link text: Your Store]
+2021-03-28 23:03:427 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (0ad036a6c12aa0b9c6c96cb7bb7e30aa)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:125 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (0ad036a6c12aa0b9c6c96cb7bb7e30aa)] -> link text: Login]
+2021-03-28 23:03:195 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (0ad036a6c12aa0b9c6c96cb7bb7e30aa)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:837 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:560 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (7e8205a753a2244eb5df14ad51be0426)] -> link text: Your Store]
+2021-03-28 23:03:689 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (7e8205a753a2244eb5df14ad51be0426)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:411 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (7e8205a753a2244eb5df14ad51be0426)] -> link text: Login]
+2021-03-28 23:03:479 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (7e8205a753a2244eb5df14ad51be0426)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:406 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:207 INFO  LoginPage :32 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (6dbd6faf58bd4c75275db5d3af72ac33)] -> link text: Your Store]
+2021-03-28 23:03:323 INFO  LoginPage :39 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (6dbd6faf58bd4c75275db5d3af72ac33)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:986 INFO  LoginPage :46 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (6dbd6faf58bd4c75275db5d3af72ac33)] -> link text: Login]
+2021-03-28 23:03:53 INFO  LoginPage :52 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (6dbd6faf58bd4c75275db5d3af72ac33)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:978 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:839 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (b74cf8b02785ceca819883176fc901d5)] -> link text: Your Store]
+2021-03-28 23:03:955 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (b74cf8b02785ceca819883176fc901d5)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:632 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (b74cf8b02785ceca819883176fc901d5)] -> link text: Login]
+2021-03-28 23:03:701 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (b74cf8b02785ceca819883176fc901d5)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:760 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:491 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (496130ead751b090e80806dd18c6a9a3)] -> link text: Your Store]
+2021-03-28 23:03:583 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (496130ead751b090e80806dd18c6a9a3)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:282 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (496130ead751b090e80806dd18c6a9a3)] -> link text: Login]
+2021-03-28 23:03:349 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (496130ead751b090e80806dd18c6a9a3)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:397 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:194 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (f627cc99d52a7a3681cffcf81bc07a4c)] -> link text: Your Store]
+2021-03-28 23:03:311 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (f627cc99d52a7a3681cffcf81bc07a4c)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:988 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (f627cc99d52a7a3681cffcf81bc07a4c)] -> link text: Login]
+2021-03-28 23:03:56 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (f627cc99d52a7a3681cffcf81bc07a4c)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:580 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:350 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (ba40e16e2ed192c89d13bf85aa5bc9cc)] -> link text: Your Store]
+2021-03-28 23:03:483 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (ba40e16e2ed192c89d13bf85aa5bc9cc)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:161 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (ba40e16e2ed192c89d13bf85aa5bc9cc)] -> link text: Login]
+2021-03-28 23:03:235 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (ba40e16e2ed192c89d13bf85aa5bc9cc)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:425 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:218 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (4690ebfdd5c32c3c17af1b56a2f59186)] -> link text: Your Store]
+2021-03-28 23:03:365 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (4690ebfdd5c32c3c17af1b56a2f59186)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:73 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (4690ebfdd5c32c3c17af1b56a2f59186)] -> link text: Login]
+2021-03-28 23:03:146 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (4690ebfdd5c32c3c17af1b56a2f59186)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:101 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:890 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (4634492d385d6e11fdf8b40ecd9443a1)] -> link text: Your Store]
+2021-03-28 23:03:08 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (4634492d385d6e11fdf8b40ecd9443a1)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:729 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (4634492d385d6e11fdf8b40ecd9443a1)] -> link text: Login]
+2021-03-28 23:03:796 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (4634492d385d6e11fdf8b40ecd9443a1)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-28 23:03:967 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-28 23:03:761 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (eb2c4fd614d7399b139ddecf51e7a2c3)] -> link text: Your Store]
+2021-03-28 23:03:859 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (eb2c4fd614d7399b139ddecf51e7a2c3)] -> xpath: //span[text()='My Account']]
+2021-03-28 23:03:608 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (eb2c4fd614d7399b139ddecf51e7a2c3)] -> link text: Login]
+2021-03-28 23:03:676 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (eb2c4fd614d7399b139ddecf51e7a2c3)] -> xpath: //h2[text()='Returning Customer']]
+2021-03-29 20:03:322 INFO  BrowserSelector :23 - Launching Chrome Browser
+2021-03-29 20:03:524 INFO  LoginPage :31 - verifyMessageOnHomePage [[ChromeDriver: chrome on WINDOWS (231b1be4eb13d9a817f142fa1616a59e)] -> link text: Your Store]
+2021-03-29 20:03:615 INFO  LoginPage :38 - User clicks on Login Link [[ChromeDriver: chrome on WINDOWS (231b1be4eb13d9a817f142fa1616a59e)] -> xpath: //span[text()='My Account']]
+2021-03-29 20:03:360 INFO  LoginPage :45 -  User Clicks On LoginLink[[ChromeDriver: chrome on WINDOWS (231b1be4eb13d9a817f142fa1616a59e)] -> link text: Login]
+2021-03-29 20:03:432 INFO  LoginPage :51 - verify Message On loginPage [[ChromeDriver: chrome on WINDOWS (231b1be4eb13d9a817f142fa1616a59e)] -> xpath: //h2[text()='Returning Customer']]
